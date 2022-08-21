@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkanse&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkanse" /> </p>
 
+![](https://raw.githubusercontent.com/kunalkanse/kunalkanse/main/githubgif.webp)
+
 - 💬 Ask me about **c,c++,java,sql**
 
 - 📫 How to reach me **kunalskanse@gmail.com**
