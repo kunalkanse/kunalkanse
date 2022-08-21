@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kunalskanse@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sVDjQfC16_WFeQmhENCS5S9pV3Y7_fHY/view?usp=sharing](https://drive.google.com/file/d/1sVDjQfC16_WFeQmhENCS5S9pV3Y7_fHY/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1sVDjQfC16_WFeQmhENCS5S9pV3Y7_fHY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
