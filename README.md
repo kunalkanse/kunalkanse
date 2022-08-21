@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkanse&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkanse" /> </p>
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/kunalkanse/kunalkanse/main/software-developer-man-wrote-program-joke-computer-cartoon-vector-software-developer-man-wrote-program-joke-computer-cartoon-220791698.jpg" />
-
-<img align="right" width="400" src="https://raw.githubusercontent.com/kunalkanse/kunalkanse/main/software-developer-man-wrote-program-joke-computer-cartoon-vector-software-developer-man-wrote-program-joke-computer-cartoon-220791698.jpg" />
+<img align="right" width="400" src="https://raw.githubusercontent.com/kunalkanse/kunalkanse/main/software-developer-man-wrote-program-joke-computer-cartoon-vector-software-developer-man-wrote-program-joke-computer-cartoon-220791698.jpg" style="border:3px solid black />
 
 - 💬 Ask me about **c,c++,java,sql**
 
