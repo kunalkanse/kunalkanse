@@ -5,6 +5,8 @@
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/kunalkanse/kunalkanse/main/software-developer-man-wrote-program-joke-computer-cartoon-vector-software-developer-man-wrote-program-joke-computer-cartoon-220791698.jpg"/>
 
+- 🌱 Currently on path of becoming JAVA full stack developer
+
 - 💬 Ask me about **c,c++,java,sql**
 
 - 📫 How to reach me **kunalskanse@gmail.com**
