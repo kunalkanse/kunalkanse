@@ -5,7 +5,7 @@
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/kunalkanse/kunalkanse/main/software-developer-man-wrote-program-joke-computer-cartoon-vector-software-developer-man-wrote-program-joke-computer-cartoon-220791698.jpg"/>
 
-- 🌱 Currently on path of becoming JAVA full stack developer
+- 🌱 Currently on path of becoming JAVA developer
 
 - 💬 Ask me about **c,c++,java,sql**
 
