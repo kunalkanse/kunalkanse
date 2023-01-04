@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kunalkanse96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalkanse96" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kunal kanse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal kanse" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kunal-kanse-b5bab519b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal kanse" height="30" width="40" /></a>
 <a href="https://instagram.com/the_kunalkanse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_kunalkanse" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kunalkanse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kunalkanse" height="30" width="40" /></a>
 </p>
