@@ -2,16 +2,16 @@
 <h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkanse&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkanse" /> </p>
-
+ 
 <img align="right" width="400" src="https://raw.githubusercontent.com/kunalkanse/kunalkanse/main/software-developer-man-wrote-program-joke-computer-cartoon-vector-software-developer-man-wrote-program-joke-computer-cartoon-220791698.jpg" />
 
 - 🌱 Currently learning technologies related with JAVA Full Stack Development
 
-- 💬 Ask me about **c,c++,java,sql,HTML,CSS,JS**
+- 💬 Ask me about **c,c++,java,sql,HTML,CSS,JS,Manual testing**
 
-- 📫 How to reach me **kunalskanse@gmail.com**
+- 📫 To reach me **kunalskanse@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1idoRsRfkXy5XsriP3_i7W85Ftpbmw-2A/view?usp=sharing)
+- 📄 Want to know about me [resume](https://drive.google.com/file/d/1idoRsRfkXy5XsriP3_i7W85Ftpbmw-2A/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
