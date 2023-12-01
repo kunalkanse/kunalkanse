@@ -7,7 +7,7 @@
 
 - 🌱 Currently learning technologies related with JAVA Full Stack Development
 
-- 💬 Ask me about **c,c++,java,sql,HTML,CSS,JS,Manual testing**
+- 💬 Ask me about **c,c++,java,sql,HTML,CSS,JS,ReactJS,Manual testing**
 
 - 📫 To reach me **kunalskanse@gmail.com**
 
