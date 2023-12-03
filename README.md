@@ -5,7 +5,7 @@
  
 <img align="right" width="400" src="https://raw.githubusercontent.com/kunalkanse/kunalkanse/main/software-developer-man-wrote-program-joke-computer-cartoon-vector-software-developer-man-wrote-program-joke-computer-cartoon-220791698.jpg" />
 
-- 🌱 Currently learning technologies related with JAVA Full Stack Development
+- 🌱 JAVA Full Stack Aspirant At QSpiders,Hadapsar
 
 - 💬 Ask me about **c,c++,java,sql,HTML,CSS,JS,ReactJS,Manual testing**
 
