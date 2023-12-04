@@ -2,7 +2,9 @@
 <h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkanse&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkanse" /> </p>
- 
+
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="kunal-kanse-b5bab519b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kunal-kanse-b5bab519b?trk=profile-badge">Kunal Kanse</a></div>
+
 <img align="right" width="400" src="https://raw.githubusercontent.com/kunalkanse/kunalkanse/main/software-developer-man-wrote-program-joke-computer-cartoon-vector-software-developer-man-wrote-program-joke-computer-cartoon-220791698.jpg" />
 
 - 🌱 JAVA Full Stack Aspirant At QSpiders,Hadapsar
