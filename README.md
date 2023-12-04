@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkanse&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkanse" /> </p>
 
-<img align="right" width="400" src="https://drive.google.com/file/d/1VvMWj3NdW09P62o744nyPXafzmCOMBW2/view?usp=drive_link" />
+<img align="right" width="350" src="https://raw.githubusercontent.com/kunalkanse/kunalkanse/main/software-developer-man-wrote-program-joke-computer-cartoon-vector-software-developer-man-wrote-program-joke-computer-cartoon-220791698.jpg" />
 
-<!-- https://raw.githubusercontent.com/kunalkanse/kunalkanse/main/software-developer-man-wrote-program-joke-computer-cartoon-vector-software-developer-man-wrote-program-joke-computer-cartoon-220791698.jpg -->
+<!--  -->
 
 - 🌱 JAVA Full Stack Aspirant At QSpiders,Hadapsar
 
