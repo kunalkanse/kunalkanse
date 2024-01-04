@@ -29,12 +29,14 @@
 
 <br>
 
+<a href="https://github.com/kunalkanse">
+  <img src="https://github-profile-trophy.vercel.app/?username=kunalkanse" alt="kunalkanse" /> 
+</a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalkanse&show_icons=true&locale=en&layout=compact" alt="kunalkanse" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalkanse&show_icons=true&locale=en" alt="kunalkanse" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkanse&" alt="kunalkanse" /></p>
 
-<a href="https://github.com/kunalkanse">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalkanse" alt="kunalkanse" /> 
-</a>
+
