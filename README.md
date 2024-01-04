@@ -35,3 +35,5 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkanse&" alt="kunalkanse" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?kunalkanse=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
