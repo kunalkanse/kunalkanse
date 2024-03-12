@@ -9,7 +9,7 @@
 
 - 🌱 JAVA Full Stack Aspirant At QSpiders,Hadapsar
 
-- 💬 Ask me about **C, C++, Java, SQL, HTML, CSS, JavaScript, ReactJS, Manual-testing, JDBC, Servlets, JSP**
+- 💬 Ask me about **C, C++, Java, SQL, HTML, CSS, JavaScript, ReactJS, Manual-testing, JDBC, Servlets, JSP, Hibernate**
 
 - 📫 To reach me **kunalskanse@gmail.com**
 
