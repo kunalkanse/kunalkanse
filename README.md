@@ -7,7 +7,7 @@
 
 <!--  -->
 
-- 🌱 JAVA Full Stack Aspirant At QSpiders,Hadapsar
+- 🌱 Junior software engineer At EPAM
 
 - 💬 Ask me about **C, C++, Java, SQL, HTML, CSS, JavaScript, ReactJS, Manual-testing, JDBC, Servlets, JSP, Hibernate**
 
